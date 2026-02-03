@@ -1,5 +1,8 @@
 # Adidas US Interactive Sales Project
 
+## Sales Dashboard
+![Excel Data](images/dashboard.jpeg)
+
 ## Overview
 This project analyzes Adidas sales data in the United States.  
 It helps understand sales performance, trends, and profit using data analysis and dashboards.
@@ -23,8 +26,5 @@ It helps understand sales performance, trends, and profit using data analysis an
 
 ## Tools Used
 - Microsoft Excel
-
-### Sales Dashboard
-![Excel Data](images/dashboard.jpeg)
 
 
