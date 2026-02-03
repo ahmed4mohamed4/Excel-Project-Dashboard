@@ -27,7 +27,7 @@ It helps understand sales performance, trends, and profit using data analysis an
 ## Screenshots
 
 ### Excel Data Overview
-![Excel Data](screenshots/excel_data.png)
+![Excel Data](images/dashboard.jpeg)
 
 ### Sales Dashboard
 ![Sales Dashboard](screenshots/sales_dashboard.png)
