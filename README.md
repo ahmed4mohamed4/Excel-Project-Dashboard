@@ -24,11 +24,7 @@ It helps understand sales performance, trends, and profit using data analysis an
 ## Tools Used
 - Microsoft Excel
 
-## Screenshots
-
-### Excel Data Overview
+### Sales Dashboard
 ![Excel Data](images/dashboard.jpeg)
 
-### Sales Dashboard
-![Sales Dashboard](screenshots/sales_dashboard.png)
 
